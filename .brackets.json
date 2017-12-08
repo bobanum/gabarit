@@ -1,0 +1,4 @@
+{
+	"staticserver.port": 5151,
+	"project.baseUrl": "http://localhost:5151/"
+}
